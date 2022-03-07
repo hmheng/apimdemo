@@ -1,0 +1,4 @@
+This series of tutorial, which consists of 3 following parts, will be demonstrating on how to deploy ASP.NET Web API endpoints at the same time update definition in Azure API Management through Azure Devops CI/CD pipelines.
+- Part1: https://hmheng.medium.com/deploy-web-api-to-azure-api-management-via-azure-devops-ci-cd-pipelines-part-1-47f34425cdf4
+- Part2: https://hmheng.medium.com/deploy-web-api-to-azure-api-management-via-azure-devops-ci-cd-pipelines-part-2-7529a4869ac5
+- Part3: https://hmheng.medium.com/deploy-web-api-to-azure-api-management-via-azure-devops-ci-cd-pipelines-part-3-875debf5863b
